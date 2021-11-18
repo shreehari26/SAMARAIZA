@@ -1,9 +1,12 @@
-# SAMARAIZA
+
+# SAMARAIZA 
 You are in a debate or an interview where you might need the summarised 
 notes of a particular person, or in a seminar or meetings where simultaneously making notes and listening
 is not productive hence short notes of the speaker would really do the work...
 
 ### What is SAMARAIZA..?
+![](https://github.com/RohitSinghDev/SAMARAIZA/blob/main/samarizer.png)
+
 SAMARAIZA has a **speaker recognition** model based on **ML** which
 could train itself by taking the audio files of the desired speaker.
 Now, after training it takes an audio file to test, if it recognises the speaker, 
@@ -53,3 +56,5 @@ A deep learning chabot made using tensorflow, nltk, tflearn to give the user ins
 + pytorch
 + transformers
 + sentencepiece
+
+
